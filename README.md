@@ -19,6 +19,6 @@ https://github.com/MoonKang/selfdriving_simulation
 
 ### 4. Advanced Lane Detection & Vehicle Detection
 Used opencv for distortion correction, image rectification, color transform to identify lanes robustly
-Used SVM and opencv to detect and track vehicles 
+Used SVM and opencv to detect and track vehicles
 https://github.com/MoonKang/Robust_LaneDetection
 https://github.com/MoonKang/Vehicle_Detection
