@@ -10,15 +10,15 @@ Used a basic opencv and applied canny edge and hough transform to detect lanes i
 https://github.com/MoonKang/LaneDetection
 
 ### 2. Traffic Sign Classifier
-Used CNN to identify traffic signs
+Used CNN to identify traffic signs \
 https://github.com/MoonKang/Traffic_Sign_Classifier
 
 ### 3. Behavior Cloning
-Used CNN to optimize steer angle and throttle in simulation
+Used CNN to optimize steer angle and throttle in simulation\
 https://github.com/MoonKang/selfdriving_simulation
 
 ### 4. Advanced Lane Detection & Vehicle Detection
 Used opencv for distortion correction, image rectification, color transform to identify lanes robustly
-Used SVM and opencv to detect and track vehicles
+Used SVM and opencv to detect and track vehicles\
 https://github.com/MoonKang/Robust_LaneDetection
 https://github.com/MoonKang/Vehicle_Detection
