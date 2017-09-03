@@ -19,7 +19,7 @@ https://github.com/MoonKang/selfdriving_simulation
 ### 2. Lane Detection
 ![image](./img/lane_detection.png)
 * Used opencv for distortion correction, image rectification, color transform to identify lanes robustly
-https://github.com/MoonKang/Robust_LaneDetection \
+https://github.com/MoonKang/Robust_LaneDetection 
 
 ### 3. Vehicle Detection
 ![image](./img/vehicle_detection.png)
